@@ -1,16 +1,6 @@
-# news
+# News App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-01-23 at 9 16 04 PM](https://user-images.githubusercontent.com/93067257/214233351-1536b18c-beda-4c13-b001-39177bef1e3b.jpeg)
+![WhatsApp Image 2023-01-23 at 9 16 04 PM (1)](https://user-images.githubusercontent.com/93067257/214233378-36c0de72-a87f-4f96-9830-5f12aef43b08.jpeg)
